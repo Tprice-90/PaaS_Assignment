@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd6e73e8-466e-4e2d-bc64-2b44d2112190" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PaaS_Code/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/PaaS_Code/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PaaS_Assignment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PaaS_Assignment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,6 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1649258360210</updated>
       <workItem from="1649258364743" duration="110000" />
+      <workItem from="1649262914339" duration="345000" />
     </task>
     <servers />
   </component>
