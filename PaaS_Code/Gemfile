@@ -50,7 +50,7 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails', '~> 3.7'
   gem 'selenium-webdriver'
-  gem 'pg'
+  gem 'sqlite3'
 end
 
 group :test do
